@@ -2,7 +2,7 @@
 
 ## **Overview**
 - Snakes and Ladders is a quite simple racing board game derived from the Indian game Pachisi. You probably have played it once or twice in your childhood. It is also known as 'Moksha-Patamu.'
-- The goal of the game is to navigate your coin from start to finish, by avoiding the snakes, and taking shortcuts going up the ladders._
+- The goal of the game is to navigate your coin from start to finish, by avoiding the snakes, and taking shortcuts going up the ladders.
 - The historic version had its roots in morality lessons, on which a player's progression up the board represented a life journey complicated by virtues (ladders) and vices (snakes). The game is also sold under other names such as Chutes and Ladders, Bible Ups and Downs, etc., and a morality Chutes and Ladders was published by the Milton Bradley Company starting from 1943.
 - The size of the grid varies, but is most commonly 8×8, 10×10 or 12×12 squares. Boards have snakes and ladders starting and ending on different squares; both factors affect the duration of play. Each player is represented by a distinct game piece token. A single die is rolled to determine random movement of a player's token in the traditional form of play; two dice may be used for a shorter game.
 
@@ -18,7 +18,7 @@
 
 ## **How to Run the Game in Your System**
 - Download the Python 3 installer package from the official website and install it, if not installed previously.
-- Run the following in the terminal to install the Pygame library
+- Run the following in the terminal to install the PyGame library.
 ```
 pip3 install pygame
 ```
@@ -31,3 +31,11 @@ $ git clone https://github.com/phalashi/Snake-and-Ladder
 python3 Snakes-and-Ladders/main.py
 ```
 
+## **Credits**
+### <a href = "https://www.shutterstock.com/g/sukma" > maraga </a>
+- https://www.shutterstock.com/image-vector/snake-ladder-boardgame-fun-kid-vector-683753413
+- https://www.shutterstock.com/image-vector/snake-ladder-boardgame-fun-kid-vector-683753410
+- https://www.shutterstock.com/image-vector/snake-ladder-boardgame-fun-kid-vector-683753392 
+
+### <a href = "https://cga-creative-game-assets.itch.io/"> CGA Creative Game Assets </a>
+- https://cga-creative-game-assets.itch.io/gold-2d-mobile-ui-for-casual-game
