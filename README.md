@@ -28,7 +28,7 @@ $ git clone https://github.com/phalashi/Snake-and-Ladder
 ``` 
 - and run the main.py file just as any other Python script (.py) file.
 ```
-python3 Snakes-and-Ladders/main.py
+python3 Snake-and-Ladder/main.py
 ```
 
 ## **Credits**
